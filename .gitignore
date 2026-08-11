@@ -1,0 +1,22 @@
+node_modules/
+dist/
+release/
+*.log
+
+# platform
+.DS_Store
+Thumbs.db
+
+# editor
+.vscode/
+.idea/
+
+# android build output and local machine config
+android/build/
+android/app/build/
+android/.gradle/
+android/local.properties
+android/capacitor-cordova-android-plugins/build/
+
+# reference material not distributed
+TEMPLATE HENNA CONTRACT.pdf
