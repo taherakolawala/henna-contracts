@@ -16,6 +16,7 @@
     "android:install": "npm run android:sync && cd android && .\\gradlew.bat installDebug"
   },
   "devDependencies": {
+    "@capacitor/assets": "^3.0.5",
     "@capacitor/cli": "^8.5.0",
     "@types/node": "^20.11.0",
     "@types/react": "^18.2.0",
@@ -60,6 +61,7 @@
   },
   "allowScripts": {
     "electron@30.5.1": true,
-    "esbuild@0.21.5": true
+    "esbuild@0.21.5": true,
+    "sharp@0.32.6": true
   }
 }
