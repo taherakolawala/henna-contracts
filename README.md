@@ -1,8 +1,6 @@
 <p align="center">
-  <img src="docs/icon.jpg" width="160" alt="HennaDocs icon" />
+  <img src="docs/banner.jpg" alt="HennaDocs" />
 </p>
-
-<h1 align="center">HennaDocs</h1>
 
 <p align="center">
   Desktop and Android app for generating henna business contracts as PDFs.
