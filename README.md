@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="docs/banner.jpg" alt="HennaDocs" />
+  <img src="docs/banner.jpg" width="640" alt="HennaDocs" />
 </p>
 
 <p align="center">
