@@ -1,7 +1,7 @@
 {
-  "name": "henna-contract-app",
-  "version": "0.1.0",
-  "description": "Henna business contract manager",
+  "name": "hennadocs",
+  "version": "1.0.0",
+  "description": "Desktop and Android app for generating henna business contracts as PDFs",
   "main": "dist/main/electron/main.js",
   "author": "Taher Akolawala",
   "scripts": {
@@ -42,7 +42,7 @@
   },
   "build": {
     "appId": "com.tampabayhenna.contracts",
-    "productName": "Henna Contracts",
+    "productName": "HennaDocs",
     "files": [
       "dist/**/*",
       "package.json"
